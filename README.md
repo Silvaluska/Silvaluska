@@ -15,6 +15,7 @@ I'm passionate about technology and I'm currently studying to learn more about p
 <a href="https://github.com/Silvaluska"><img src="https://img.shields.io/badge/-GitHub-$230077B5?style=flat&logo=github&logoColor=white&color=black"></a>
 <a href="https://twitter.com/SilvaLuskas"><img src="https://img.shields.io/badge/-Twitter-$230077B5?style=flat&logo=twitter&logoColor=white&color=informational"></a>
 <a href="https://lucas030894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-$230077B5?style=flat&logo=gmail&logoColor=white&color=red"></a>
+<a href="https://www.instagram.com/silvaluska/"><img src="https://img.shields.io/badge/-Instagram-$230077B5?style=flat&logo=instagram&logoColor=white&color=critical"></a>
 
 📫 Email: lucas030894@gmail.com
 
