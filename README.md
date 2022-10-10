@@ -8,9 +8,9 @@ I'm passionate about technology and I'm currently studying to learn more about p
 
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python(NumPy, Pandas), JavaScript, HTML and CSS
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🤜🤛 I’m looking to collaborate on machine learning projects
 
-## Would you like to find me?
+## 📧 Would you like to find me?
 <a href="https://www.linkedin.com/in/lucas-silva-199164189/"><img src="https://img.shields.io/badge/-Linkedin-$230077B5?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
 <a href="https://www.instagram.com/silvaluska/"><img src="https://img.shields.io/badge/-Instagram-$230077B5?style=flat&logo=instagram&logoColor=white&color=critical"></a>
 <a href="https://github.com/Silvaluska"><img src="https://img.shields.io/badge/-GitHub-$230077B5?style=flat&logo=github&logoColor=white&color=black"></a>
@@ -19,6 +19,8 @@ I'm passionate about technology and I'm currently studying to learn more about p
 
 
 📫 Email: lucas030894@gmail.com
+
+## 👨‍💻 Hard Skills
 
 ![Silvaluska GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaluska&show_icons=true) <img style="width: 490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaluska&layout=compact">
 
