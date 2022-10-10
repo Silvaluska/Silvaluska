@@ -22,7 +22,7 @@ I'm passionate about technology and I'm currently studying to learn more about p
 
   ![Silvaluska GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaluska&show_icons=true&theme=radical) 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaluska&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaluska))
 
 <!---
 Silvaluska/Silvaluska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
