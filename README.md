@@ -21,7 +21,8 @@ I'm passionate about technology and I'm currently studying to learn more about p
 📫 Email: lucas030894@gmail.com
 
   ![Silvaluska GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaluska&show_icons=true&theme=radical) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaluska&langs_count=8)
 
 <!---
 Silvaluska/Silvaluska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
