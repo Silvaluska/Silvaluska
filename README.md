@@ -1,3 +1,5 @@
+![Profile visitors](https://gpvc.arturio.dev./Silvaluska)
+
 # 👋 Hi, I’m @Silvaluska
 
 My name is Lucas Silva and I have a degree in civil engineering from the Universidade Federal do Pará (UFPA), I have been working in the area since 2018 and I am currently one of the partners at Aletto Construtora, a company that aims to transform people's lives with the construction or renovation of the house.
