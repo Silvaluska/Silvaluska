@@ -13,6 +13,7 @@ I'm passionate about technology and I'm currently studying to learn more about p
 ## Would you like to find me?
 <a href="https://www.linkedin.com/in/lucas-silva-199164189/"><img src="https://img.shields.io/badge/-Linkedin-$230077B5?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
 <a href="https://github.com/Silvaluska"><img src="https://img.shields.io/badge/-GitHub-$230077B5?style=flat&logo=github&logoColor=white&color=black"></a>
+<a href="https://twitter.com/SilvaLuskas"><img src="https://img.shields.io/badge/-Twitter-$230077B5?style=flat&logo=twitter&logoColor=white&color=informational"></a>
 
 📫 Email: lucas030894@gmail.com
 
