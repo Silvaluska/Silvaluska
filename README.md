@@ -13,7 +13,9 @@ I'm passionate about technology and I'm currently studying to learn more about p
 ## Would you like to find me?
 📫 Email: lucas030894@gmail.com
 
-![Silvaluska GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaluska&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaluska&layout=compact)
+<div style="vertical-align: top;">
+  ![Silvaluska GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaluska&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaluska&layout=compact)
+<\div>
 
 <!---
 Silvaluska/Silvaluska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
