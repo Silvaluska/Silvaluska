@@ -12,6 +12,8 @@ I'm passionate about technology and I'm currently studying to learn more about p
 
 ## Would you like to find me?
 <a href="https://www.linkedin.com/in/lucas-silva-199164189/"><img src="https://img.shields.io/badge/-Linkedin-$230077B5?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
+<a href="https://github.com/Silvaluska"><img src="https://img.shields.io/badge/-GitHub-$230077B5?style=flat&logo=github&logoColor=white&color=black"></a>
+
 📫 Email: lucas030894@gmail.com
 
   ![Silvaluska GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaluska&show_icons=true&theme=radical) 
